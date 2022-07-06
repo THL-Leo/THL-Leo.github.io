@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.088b6ab0.css","mappings":"AAAA,KACE,eAAiB,CACjB,UACF","sources":["index.css"],"sourcesContent":["body {\n  background: black;\n  color :white;\n}\n\n/* code {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n} */\n"],"names":[],"sourceRoot":""}

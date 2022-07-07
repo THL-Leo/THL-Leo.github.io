@@ -8,6 +8,9 @@ const App = () => {
   return (
     <>
     <About />
+    <Projects />
+    <Experience />
+    <Contact />
     </>
   )
 }
